@@ -415,7 +415,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-873452691&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-162538794&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -425,7 +425,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-873452691&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-162538794&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -809,7 +809,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-598763412&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-791685234&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -819,7 +819,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-598763412&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-791685234&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
