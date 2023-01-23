@@ -17,7 +17,7 @@
       <link>https://alicekl.github.io/project/koopman/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://alicekl.github.io/project/koopman/</guid>
-      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a set of finite lifting functions, and the respective Koopman operator.&lt;/p&gt;
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a finite set of lifting functions that linearize the system, and the respective Koopman operator.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;Instead of a black-box method, or hand-selecting potential lifting functions, we characterize our lifting functions as Fourier features, and learn the optimal set of Fourier feature parameters (frequencies and phase shift) and Koopman operator for various dynamical systems of varying complexities.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Salam, T., &lt;strong&gt;Li, A. K.&lt;/strong&gt;, &amp;amp; Hsieh, M. A. (2022). Online Estimation of the Koopman Operator Using Fourier Features. &lt;em&gt;Submitted to L4DC. Awaiting Review.&lt;/em&gt;
