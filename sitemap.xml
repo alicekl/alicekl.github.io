@@ -10,6 +10,58 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://alicekl.github.io/project/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/project/underwater_weather/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/dynamical-systems/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/koopman-operator-theory/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/project/koopman/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/machine-learning/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/modeling/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tags/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/project/iot4ag/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/active-sensing/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/agricultural-robotics/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/information-gathering/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/tag/iot/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://alicekl.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,11 +78,19 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://alicekl.github.io/home/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/home/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://alicekl.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://alicekl.github.io/tags/</loc>
+    <loc>https://alicekl.github.io/home/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -44,6 +104,10 @@
   </url><url>
     <loc>https://alicekl.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/home/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alicekl.github.io/post/2020-12-01-r-rmarkdown/</loc>
@@ -64,6 +128,10 @@
   </url><url>
     <loc>https://alicekl.github.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alicekl.github.io/home/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alicekl.github.io/post/writing-technical-content/</loc>
@@ -90,6 +158,10 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://alicekl.github.io/home/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://alicekl.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,34 +172,6 @@
   </url><url>
     <loc>https://alicekl.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alicekl.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alicekl.github.io/publication-type/2/</loc>

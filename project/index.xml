@@ -1,36 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Research | ALICE KATE LI</title>
     <link>https://alicekl.github.io/project/</link>
       <atom:link href="https://alicekl.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alicekl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
+      <url>https://alicekl.github.io/media/icon_huf5e2ae4fb7fa7bc920a66551144da9dc_1200_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
       <link>https://alicekl.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://alicekl.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://alicekl.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Understanding Underwater Weather in Rivers</title>
+      <link>https://alicekl.github.io/project/underwater_weather/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alicekl.github.io/project/underwater_weather/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;In a collaborative effort between the &lt;a href=&#34;https://scalar.seas.upenn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScalAR Lab&lt;/a&gt; and Penn&amp;rsquo;s Earth and Environmental Science Faculty, Prof. Douglas Jerolmack &lt;a href=&#34;https://sites.google.com/site/pennsed/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(PennSed Group)&lt;/a&gt; and Prof. Hugo N. Ulloa &lt;a href=&#34;https://ge-flow.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(GEFLOW)&lt;/a&gt;, we leverage autonomous surface vehicles equipped with sensor suites to acquire data about the Schuylkill River.  This work got featured on &lt;a href=&#34;https://www.linkedin.com/posts/university-of-pennsylvania_using-nature-as-inspiration-laia-mogas-soldevila-activity-7005942802157047808-CL68/?utm_source=share&amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penn Today&lt;/a&gt;!&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;In acquiring measurements over the same spatial regions over time, gathered data can be used to model spatiotemporal fluid and sediment dynamics in the river. With learnt models, adaptive sampling strategies will be developed to actively determine the most informative sensing locations whilst operating in the river.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;To further extend work in our recent publication, we are developing a winch to lower sensors into the river, to reconstruct 3D maps of sensor measurements (instead of only surface measurements), and are extending to multi-robot information gathering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;A. K. Li&lt;/strong&gt; et al., &amp;ldquo;Towards Understanding Underwater Weather Events in Rivers Using Autonomous Surface Vehicles,&amp;rdquo; OCEANS 2022, Hampton Roads, Hampton Roads, VA, USA, 2022, pp. 1-8,
+&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9977236?casa_token=mpbJnUwzodIAAAAA:Ic5B2cbHUu44pAvGIf4xIVeW7YqPipi1r8bBNj6_dm71wXBvFUIsTZ9R1RtfkHlcoNbzq-MuAXU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; doi: 10.1109/OCEANS47191.2022.9977236.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://alicekl.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://alicekl.github.io/project/external-project/</guid>
-      <description></description>
+      <title>Learning Global Dynamics using Koopman Operator Theory</title>
+      <link>https://alicekl.github.io/project/koopman/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alicekl.github.io/project/koopman/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a set of finite lifting functions, and the respective Koopman operator.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Instead of a black-box method, or hand-selecting potential lifting functions, we characterize our lifting functions as Fourier features, and learn the optimal set of Fourier feature parameters (frequencies and phase shift) and Koopman operator for various dynamical systems of varying complexities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Salam, T., &lt;strong&gt;Li, A. K.&lt;/strong&gt;, &amp;amp; Hsieh, M. A. (2022). Online Estimation of the Koopman Operator Using Fourier Features. &lt;em&gt;Submitted to L4DC. Awaiting Review.&lt;/em&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2212.01503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; arXiv preprint arXiv:2212.01503.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active Information Gathering for Crop Health Monitoring</title>
+      <link>https://alicekl.github.io/project/iot4ag/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alicekl.github.io/project/iot4ag/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://www.kumarrobotics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kumar Lab&lt;/a&gt; and the &lt;a href=&#34;https://kagan.seas.upenn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Kagan group&lt;/a&gt; are collaborating to co-design an optical sensor-detector system for measuring crop health. Novel optical agricultural sensors in development by our collaborators shall be scattered onto crop surfaces in their early growth stages. These sensors will directly interface crop surfaces, and continually respond to crop conditions (pH, moisture, etc.), changing color with changes in plant conditions.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;To extract meaningful information from these sensors, we are developing a ground robot with an on board camera to actively localize and classify these sensors, based on a rough estimate of the location of these sensors (as exact sensor locations will change with plant growth). Challenges in this work include (1) variable outdoor lighting conditions; (2) occlusion of sensors from plant foliage; (3) application-based constraints e.g. sensor size, and (4) maneuverability over soil without causing soil compaction.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
