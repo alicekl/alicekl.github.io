@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agricultural robotics | ALICE KATE LI</title>
+    <link>https://alicekl.github.io/tag/agricultural-robotics/</link>
+      <atom:link href="https://alicekl.github.io/tag/agricultural-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>agricultural robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alicekl.github.io/media/icon_huf5e2ae4fb7fa7bc920a66551144da9dc_1200_512x512_fill_lanczos_center_3.png</url>
+      <title>agricultural robotics</title>
+      <link>https://alicekl.github.io/tag/agricultural-robotics/</link>
+    </image>
+    
+    <item>
+      <title>Active Information Gathering for Crop Health Monitoring</title>
+      <link>https://alicekl.github.io/project/iot4ag/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alicekl.github.io/project/iot4ag/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://www.kumarrobotics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kumar Lab&lt;/a&gt; and the &lt;a href=&#34;https://kagan.seas.upenn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Kagan group&lt;/a&gt; are collaborating to co-design an optical sensor-detector system for measuring crop health. Novel optical agricultural sensors in development by our collaborators shall be scattered onto crop surfaces in their early growth stages. These sensors will directly interface crop surfaces, and continually respond to crop conditions (pH, moisture, etc.), changing color with changes in plant conditions.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;To extract meaningful information from these sensors, we are developing a ground robot with an on board camera to actively localize and classify these sensors, based on a rough estimate of the location of these sensors (as exact sensor locations will change with plant growth). Challenges in this work include (1) variable outdoor lighting conditions; (2) occlusion of sensors from plant foliage; (3) application-based constraints e.g. sensor size, and (4) maneuverability over soil without causing soil compaction.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
