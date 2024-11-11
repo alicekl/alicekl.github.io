@@ -42,7 +42,7 @@
 Therefore, in this work, we propose EnKode, a method based on Koopman theory and ensemble methods that models flows and provides an active sensing strategy to guide robots to collect sparse informative data for the flow model. From our knowledge, it is the first works to apply Koopman theory to the task of robotic active sensing and modeling of flows.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;In evaluating our methods on three flows of increasing complexities, including real ocean flows, we show that EnKode provides high quality uncertainty quantification in comparison to a Gaussian Process regression model baseline; multi-scale modeling capabilities; and an effective active sensing strategy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Li, Alice K.&lt;/strong&gt;, Thales C. Silva, and M. Ani Hsieh. &amp;ldquo;EnKode: Active Learning of Unknown Flows with Koopman Operators.&amp;rdquo; IEEE Robotics and Automation Letters (2024).
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Li, Alice K.&lt;/strong&gt;, Thales C. Silva, and M. Ani Hsieh. &amp;ldquo;EnKode: Active Learning of Unknown Flows with Koopman Operators.&amp;rdquo; &lt;i&gt; IEEE Robotics and Automation Letters (2024). &lt;/i&gt;
 &lt;u&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10733989&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Link to paper. &lt;/a&gt; &lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
@@ -55,7 +55,7 @@ Therefore, in this work, we propose EnKode, a method based on Koopman theory and
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a finite set of lifting functions that linearize the system, and the respective Koopman operator.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;Instead of a black-box method, or hand-selecting potential lifting functions, we characterize our lifting functions as Fourier features, and learn the optimal set of Fourier feature parameters (frequencies and phase shift) and Koopman operator for various dynamical systems of varying complexities.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Salam, Tahiya, &lt;strong&gt;Alice Kate Li&lt;/strong&gt;, and M. Ani Hsieh. &amp;ldquo;Online Estimation of the Koopman Operator Using Fourier Features.&amp;rdquo; Learning for Dynamics and Control Conference. PMLR, 2023.
+&lt;p style=&#34;text-align: justify;&#34;&gt;Salam, Tahiya, &lt;strong&gt;Alice Kate Li&lt;/strong&gt;, and M. Ani Hsieh. &amp;ldquo;Online Estimation of the Koopman Operator Using Fourier Features.&amp;rdquo; &lt;i&gt; Learning for Dynamics and Control Conference. PMLR, 2023. &lt;/i&gt;
 &lt;u&gt; &lt;a href=&#34;https://proceedings.mlr.press/v211/salam23a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Link to paper.&lt;/a&gt; &lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
@@ -70,7 +70,7 @@ Therefore, in this work, we propose EnKode, a method based on Koopman theory and
 &lt;!---&#34;To further extend work in our recent publication, we are developing a winch to lower sensors into the river, to reconstruct 3D maps of sensor measurements (instead of only surface measurements), and are extending to multi-robot information gathering. 
 {style=&#34;text-align: justify;&#34;}--&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Li, A. K.&lt;/strong&gt;, Mao, Y., Manjanna, S., Liu, S., Dhanoa, J., Mehta, B., Edwards, V.M., Cladera, F., Le Men, M. and Sigg, E., Ulloa, N. H., Jerolmack, D., Hsieh, M.A.,  &amp;ldquo;Towards Understanding Underwater Weather Events in Rivers Using Autonomous Surface Vehicles,&amp;rdquo; OCEANS 2022, Hampton Roads, Hampton Roads, VA, USA, 2022, pp. 1-8.
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Li, A. K.&lt;/strong&gt;, Mao, Y., Manjanna, S., Liu, S., Dhanoa, J., Mehta, B., Edwards, V.M., Cladera, F., Le Men, M. and Sigg, E., Ulloa, N. H., Jerolmack, D., Hsieh, M.A.,  &amp;ldquo;Towards Understanding Underwater Weather Events in Rivers Using Autonomous Surface Vehicles,&amp;rdquo; &lt;i&gt;OCEANS 2022, Hampton Roads, Hampton Roads, VA, USA, 2022, pp. 1-8. &lt;/i&gt;
 &lt;u&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9977236?casa_token=mpbJnUwzodIAAAAA:Ic5B2cbHUu44pAvGIf4xIVeW7YqPipi1r8bBNj6_dm71wXBvFUIsTZ9R1RtfkHlcoNbzq-MuAXU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; link to paper &lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
@@ -434,7 +434,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-847531629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-375692814&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -444,7 +444,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-847531629&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-375692814&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -828,7 +828,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-562817493&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-569174382&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -838,7 +838,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-562817493&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-569174382&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
