@@ -20,8 +20,8 @@
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a finite set of lifting functions that linearize the system, and the respective Koopman operator.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;Instead of a black-box method, or hand-selecting potential lifting functions, we characterize our lifting functions as Fourier features, and learn the optimal set of Fourier feature parameters (frequencies and phase shift) and Koopman operator for various dynamical systems of varying complexities.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Salam, Tahiya, &lt;strong&gt;Alice Kate Li&lt;/strong&gt;, and M. Ani Hsieh. &amp;ldquo;Online Estimation of the Koopman Operator Using Fourier Features.&amp;rdquo; Learning for Dynamics and Control Conference. PMLR, 2023.
-&lt;a href=&#34;https://arxiv.org/abs/2212.01503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; arXiv preprint arXiv:2212.01503.&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Salam, Tahiya, &lt;strong&gt;Alice Kate Li&lt;/strong&gt;, and M. Ani Hsieh. &amp;ldquo;Online Estimation of the Koopman Operator Using Fourier Features.&amp;rdquo; Learning for Dynamics and Control Conference. PMLR, 2023.
+&lt;u&gt; &lt;a href=&#34;https://proceedings.mlr.press/v211/salam23a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Link to paper.&lt;/a&gt; &lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     

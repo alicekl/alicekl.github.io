@@ -22,8 +22,8 @@
 Therefore, in this work, we propose EnKode, a method based on Koopman theory and ensemble methods that models flows and provides an active sensing strategy to guide robots to collect sparse informative data for the flow model. From our knowledge, it is the first works to apply Koopman theory to the task of robotic active sensing and modeling of flows.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;In evaluating our methods on three flows of increasing complexities, including real ocean flows, we show that EnKode provides high quality uncertainty quantification in comparison to a Gaussian Process regression model baseline; multi-scale modeling capabilities; and an effective active sensing strategy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Li, Alice K.&lt;/strong&gt;, Thales C. Silva, and M. Ani Hsieh. &amp;ldquo;EnKode: Active Learning of Unknown Flows with Koopman Operators.&amp;rdquo; IEEE Robotics and Automation Letters (2024).
-&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10733989&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10733989&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/abstract/document/10733989&lt;/a&gt;.&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Li, Alice K.&lt;/strong&gt;, Thales C. Silva, and M. Ani Hsieh. &amp;ldquo;EnKode: Active Learning of Unknown Flows with Koopman Operators.&amp;rdquo; IEEE Robotics and Automation Letters (2024).
+&lt;u&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10733989&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Link to paper. &lt;/a&gt; &lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     
