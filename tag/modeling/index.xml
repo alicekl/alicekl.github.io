@@ -5,7 +5,7 @@
     <link>https://alicekl.github.io/tag/modeling/</link>
       <atom:link href="https://alicekl.github.io/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>modeling</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alicekl.github.io/media/icon_huf5e2ae4fb7fa7bc920a66551144da9dc_1200_512x512_fill_lanczos_center_3.png</url>
       <title>modeling</title>
@@ -13,14 +13,14 @@
     </image>
     
     <item>
-      <title>Learning Global Dynamics using Koopman Operator Theory</title>
+      <title>(L4DC 2023) Learning Global Dynamics using Koopman Operator Theory</title>
       <link>https://alicekl.github.io/project/koopman/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://alicekl.github.io/project/koopman/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a finite set of lifting functions that linearize the system, and the respective Koopman operator.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;Instead of a black-box method, or hand-selecting potential lifting functions, we characterize our lifting functions as Fourier features, and learn the optimal set of Fourier feature parameters (frequencies and phase shift) and Koopman operator for various dynamical systems of varying complexities.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Relevant Publication&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Salam, T., &lt;strong&gt;Li, A. K.&lt;/strong&gt;, &amp;amp; Hsieh, M. A. (2022). Online Estimation of the Koopman Operator Using Fourier Features. &lt;em&gt;Submitted to L4DC. Awaiting Review.&lt;/em&gt;
+&lt;p&gt;Salam, Tahiya, &lt;strong&gt;Alice Kate Li&lt;/strong&gt;, and M. Ani Hsieh. &amp;ldquo;Online Estimation of the Koopman Operator Using Fourier Features.&amp;rdquo; Learning for Dynamics and Control Conference. PMLR, 2023.
 &lt;a href=&#34;https://arxiv.org/abs/2212.01503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; arXiv preprint arXiv:2212.01503.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
