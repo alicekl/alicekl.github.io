@@ -58,10 +58,17 @@
   {{/* TEXT ON THE RIGHT */}}
   <div class="media-body flex-1">
 
-  <div class="section-subheading article-title mb-0 mt-0">
+  <!-- <div class="section-subheading article-title mb-0 mt-0">
   <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
     <span class="small-prefix">{{ $item.Params.conference_prefix }}</span>.
     {{ $item.Title }}
+  </a>
+  </div> -->
+
+  <div class="section-subheading article-title mb-0 mt-0">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+    {{ $item.Title }}<br>
+    <span class="small-prefix">{{ $item.Params.conference_prefix }}</span>
   </a>
   </div>
 

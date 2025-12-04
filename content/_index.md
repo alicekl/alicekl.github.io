@@ -41,11 +41,7 @@ sections:
         </a>.
         # {style="text-align: justify;"}
 
-        Prior to joining Penn, I obtained my BSc and MSc at 
-        <a href="https://engineering.uci.edu/" target="_blank" rel="noopener"
-          style="color:#1e90ff !important; text-decoration:none !important; font-weight:normal !important;">
-          the University of California, Irvine
-        </a> 
+        Prior to joining Penn, I obtained my BSc and MSc at the University of California, Irvine
         in Mechanical Engineering, where I conducted research at the 
         <a href="https://cleanenergy.uci.edu/" target="_blank" rel="noopener"
           style="color:#1e90ff !important; text-decoration:none !important; font-weight:normal !important;">
