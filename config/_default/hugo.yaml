@@ -7,7 +7,7 @@
 title: 'Website of Alice Kate Li'
 # Website URL
 baseURL: 'https://alicekl.github.io/'
-
+publishDir: "public"
 ############################
 ## LANGUAGE
 ############################
