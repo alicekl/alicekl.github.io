@@ -65,12 +65,12 @@
   </a>
   </div> -->
 
-  <div class="section-subheading article-title mb-0 mt-0">
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
-    {{ $item.Title }}<br>
-    <span class="small-prefix">{{ $item.Params.conference_prefix }}</span>
-  </a>
-  </div>
+    <div class="section-subheading article-title mb-0 mt-0">
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+      {{ $item.Title }}<br>
+      <span class="small-prefix">{{ $item.Params.conference_prefix }}</span>
+    </a>
+    </div>
 
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
