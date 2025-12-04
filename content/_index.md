@@ -29,17 +29,17 @@ sections:
         <a href="https://www.grasp.upenn.edu/people/vijay-kumar/" target="_blank" rel="noopener"
           style="color:#1e90ff !important; text-decoration:none !important; font-weight:normal !important;">
           Prof. Vijay Kumar</a>.
-        {style="text-align: justify;"}
+        # {style="text-align: justify;"}
 
         My research interests lie in data-driven predictive environment modeling for downstream tasks such as planning and active sensing. My work lies at the intersection of robot learning, adaptive planning, and dynamical systems theory.
-        {style="text-align: justify;"}
+        # {style="text-align: justify;"}
 
         During my PhD, I have interned as an Applied Scientist at 
         <a href="https://www.aboutamazon.com/news/tag/robotics" target="_blank" rel="nonopener"
           style="color:#1e90ff !important; text-decoration:none !important; font-weight:normal !important;">
           Amazon Robotics
         </a>.
-        {style="text-align: justify;"}
+        # {style="text-align: justify;"}
 
         Prior to joining Penn, I obtained my BSc and MSc at 
         <a href="https://engineering.uci.edu/" target="_blank" rel="noopener"
@@ -52,7 +52,7 @@ sections:
           Clean Energy Institute
         </a> 
         (formally known as the Advanced Power and Energy Program).
-        {style="text-align: justify;"}
+        # {style="text-align: justify;"}
 
 
 

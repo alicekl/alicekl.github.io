@@ -131,3 +131,12 @@
   font-weight: 300;    /* optional: lighter weight */
   opacity: 0.8;        /* optional */
 }
+
+ /* adding spacing between project image and the text  */
+.media.stream-item.view-compact.project-card {
+  gap: 1rem !important;   
+}
+
+.flex.flex-col.space-y-3 > * + * {
+  margin-top: 1.5rem !important; 
+}
