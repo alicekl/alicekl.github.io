@@ -12,7 +12,7 @@ tags:
 - data-driven
 - marine robotics
 - climate change
-title: Learning from Demonstrations with Koopman Operators # KoopMotion - Learning Almost Divergence Free Koopman Flow Fields for Motion Planning
+title: Learning from Demonstrations with Koopman Operators for Robotics # KoopMotion - Learning Almost Divergence Free Koopman Flow Fields for Motion Planning
 url_code: ""
 url_pdf: "https://arxiv.org/abs/2509.09074"
 url_slides: ""
