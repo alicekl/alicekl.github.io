@@ -10,7 +10,8 @@ conference_prefix: IEEE Oceans 2022
 url_pdf: "https://arxiv.org/abs/2312.14248"
 
 ---
-## Project Description 
+In this work, we use autonomous surface vehicles to better understand river health, flow and sediment dynamics, and the potential impacts climate change may have on riverine environments.
+
 In a collaborative effort between the <a href="https://scalar.seas.upenn.edu/" target="_blank" rel="noopener">ScalAR Lab</a> and Penn's Earth and Environmental Science Faculty, Prof. Douglas Jerolmack <a href="https://sites.google.com/site/pennsed/" target="_blank" rel="noopener">(PennSed Group)</a> and Prof. Hugo N. Ulloa <a href="https://ge-flow.com/" target="_blank" rel="noopener">(GEFLOW)</a>, we leverage autonomous surface vehicles equipped with sensor suites to acquire data about the Schuylkill River.  This work got featured on <a href="https://www.linkedin.com/posts/university-of-pennsylvania_using-nature-as-inspiration-laia-mogas-soldevila-activity-7005942802157047808-CL68/?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener">Penn Today</a>!
 {style="text-align: justify;"}
 

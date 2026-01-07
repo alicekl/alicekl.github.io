@@ -27,7 +27,6 @@ links:
     url: https://github.com/alicekl/koopmotion
 ---
 
-## Project Description
 We use a Koopman-based approach for learning dynamical systems from demonstrations. Our sample-efficient method captures nonlinearities in demonstrations, allows us to learn attractors that bring the system towards the desired demonstration when away, mimics the demonstration motion, and stops when the system reaches the end of the demonstration.
 {style="text-align: justify;"}
 

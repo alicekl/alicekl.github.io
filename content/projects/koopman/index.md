@@ -18,7 +18,6 @@ url_slides: ""
 url_video: ""
 conference_prefix: L4DC 2023
 ---
-## Project Description
 Koopman operator theory states that a non-linear dynamical system can be lifted to a higher, and possibly infinite dimensional space, where the dynamics evolve linearly. Given the intractability of this infinite dimension, we develop a framework that approximates a finite set of lifting functions that linearize the system, and the respective Koopman operator.
 {style="text-align: justify;"}
 
