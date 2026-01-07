@@ -3,7 +3,9 @@ date: 2024-11-10
 image:
   caption: A pipeline overview of EnKode
   focal_point: Smart
-summary: ' ' # (RA-L 2024) We design an uncertainty quantification measure for active learning of dynamical systems with the Koopman operator.
+summary: 'We present EnKode, an active learning framework based on Koopman operator theory
+  for modeling unknown flow fields and guiding robotic active sensing with
+  uncertainty quantification'
 tags:
 - dynamical systems
 - predictive modeling 
@@ -12,16 +14,16 @@ tags:
 - data-driven
 - marine robotics
 - climate change
-title: Active Learning of Unknown Flows with Koopman Operators
+title: Active Learning of Unknown Flows with Koopman Operators for Robotics
 conference_prefix: RA-L 2024
  # EnKode - Active Learning of Unknown Flows with Koopman operators
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2410.16605"
 url_slides: ""
 url_video: ""
 ---
+This project studies active learning and robotic active sensing of unknown flow fields using Koopman operator theory, with applications to marine and environmental robotics.
 
-## Project Description
 Koopman operator theory can be used to provide a functional form of the flow of nonlinear dynamical systems, as well as physically interpretable feature extraction in the form of coherent sets. Both are valuable for downstream robotics tasks such as path planning. 
 {style="text-align: justify;"}
 
@@ -35,5 +37,9 @@ In evaluating our methods on three flows of increasing complexities, including r
 **Relevant Publication**:
 
 **Li, Alice K.**, Thales C. Silva, and M. Ani Hsieh. "EnKode: Active Learning of Unknown Flows with Koopman Operators." <i> IEEE Robotics and Automation Letters (2024). </i>
-<u> <a href="https://ieeexplore.ieee.org/abstract/document/10733989" target="_blank" rel="noopener"> Link to paper. </a> </u> 
+
+
+<u> <a href="https://ieeexplore.ieee.org/abstract/document/10733989" target="_blank" rel="noopener"> Link to RA-L paper.  </a> </u> 
+
+<u> <a href="https://arxiv.org/abs/2410.16605" target="_blank" rel="noopener"> Link to arXiv paper. </a> </u> 
 {style="text-align: justify;"}

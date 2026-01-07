@@ -4,9 +4,10 @@ date: "2022-12-05T00:00:00Z"
 image:
   caption: Deployment of Autonomous Surface Vehicle in Schuylkill River (Photo by Eric Sucar)
   focal_point: Smart
-summary:  ' ' # We leverage the mobility of autonomous surface vehicles to better understand river health, flow and sediment dynamics, and the potential impacts climate change may have on riverine environments.
+summary:  ' We use autonomous surface vehicles to better understand river health, flow and sediment dynamics, and the potential impacts climate change may have on riverine environments.' #
 title:  Understanding Underwater Weather Events in Rivers 
 conference_prefix: IEEE Oceans 2022
+url_pdf: "https://arxiv.org/abs/2312.14248"
 
 ---
 ## Project Description 

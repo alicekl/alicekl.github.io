@@ -4,7 +4,7 @@ date: 2022-12-01
 image:
   caption: 
   focal_point: Smart
-summary: ' ' #  (ICRA 2025 Precision Agriculture Workshop) A novel robotic platform is being developed to localize and classify novel agricultural sensors that directly interface crop surfaces to assess crop conditions.
+summary: 'A novel robotic platform is being developed to localize and classify novel agricultural sensors that directly interface crop surfaces to assess crop conditions.' #  (ICRA 2025 Precision Agriculture Workshop) 
 tags:
 - information gathering
 - iot
@@ -13,14 +13,16 @@ tags:
 - precision agriculture
 title: Robotic Information Gathering for Crop Health Monitoring 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2505.13916"
 url_slides: ""
 url_video: ""
 conference_prefix: ICRA 2025 Workshop
+
+links:
+  - type: site
+    url: https://mhopki.github.io/BEAST/
 ---
 
-
-## Project Description
 <a href="https://www.kumarrobotics.org/" target="_blank" rel="noopener">Kumar Robotics
  Lab</a> and the <a href="https://kagan.seas.upenn.edu/" target="_blank" rel="noopener"> Kagan group</a> are collaborating to co-design an optical sensor-detector system for measuring crop health. Novel optical agricultural sensors in development by our collaborators shall be placed on crop surfaces in their early growth stages. These sensors will directly interface crop surfaces, and continually respond to crop conditions (pH, moisture, etc.), changing color with changes in plant conditions. 
 {style="text-align: justify;"}

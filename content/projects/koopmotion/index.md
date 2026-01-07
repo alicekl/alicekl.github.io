@@ -3,7 +3,7 @@ date: 2025-10-01
 image:
   caption: Example of learnt vector fields (gray) from training demonstrations (red), with matching trajectories (black).
   focal_point: Smart
-summary: ' ' #  (CoRL 2025) We learn dynamical systems from demonstrations for motion planning with the Koopman operator.
+summary: 'We learn dynamical systems from demonstrations for robot motion planning with the Koopman operator.' #  (CoRL 2025) 
 tags:
 - dynamical systems
 - predictive modeling 
@@ -14,7 +14,7 @@ tags:
 - climate change
 title: Learning from Demonstrations with Koopman Operators # KoopMotion - Learning Almost Divergence Free Koopman Flow Fields for Motion Planning
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2509.09074"
 url_slides: ""
 url_video: ""
 conference_prefix: CoRL 2025 
@@ -36,5 +36,6 @@ Beyond this, since we adopt a Koopman based approach, we model the nonlinear dyn
 
 **Relevant Publication**:
 **Li, Alice K.**, Thales C. Silva, Victoria Edwards, Vijay Kumar, and M. Ani Hsieh. "KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning." <i> CoRL 2025.  </i>
-<u> <a href="https://arxiv.org/abs/2509.09074" target="_blank" rel="noopener"> Link to paper. </a> </u> 
+<u> <a href="https://proceedings.mlr.press/v305/li25f.html" target="_blank" rel="noopener"> Link to CoRL paper. </a> </u> 
+<u> <a href="https://arxiv.org/abs/2509.09074" target="_blank" rel="noopener"> Link to arXiv paper. </a> </u> 
 {style="text-align: justify;"}

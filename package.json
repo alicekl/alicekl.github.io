@@ -9,9 +9,23 @@
     "build": "hugo --minify"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.12",
     "@tailwindcss/typography": "^0.5.10",
-    "preact": "^10.27.2",
-    "tailwindcss": "^4.1.12"
-  }
+    "preact": "^10.27.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicekl/alicekl.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicekl/alicekl.github.io/issues"
+  },
+  "homepage": "https://github.com/alicekl/alicekl.github.io#readme"
 }

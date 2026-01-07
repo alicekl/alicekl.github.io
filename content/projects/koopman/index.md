@@ -4,16 +4,16 @@ date: "2022-12-10T00:00:00Z"
 image:
   caption: Estimating the flow of non-linear dynamical systems such as the double gyre flow
   focal_point: Smart
-summary: ' ' # (L4DC 2023) We develop a learning framework for modeling the global dynamics of complex dynamical systems using Koopman operator theory and Fourier Features. 
+summary: 'We develop a learning framework for online modeling of the global dynamics of complex dynamical systems using Koopman operator theory and Fourier Features. ' # (L4DC 2023) 
 tags:
 - dynamical systems
 - Koopman operator theory
 - machine learning
 - modeling
 - fourier features 
-title:  Learning Structure from Trajectories with Koopman  Theory
+title:  Learning Structure from Trajectories with Koopman Theory
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2212.01503"
 url_slides: ""
 url_video: ""
 conference_prefix: L4DC 2023
